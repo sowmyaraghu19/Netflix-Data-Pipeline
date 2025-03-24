@@ -26,7 +26,7 @@ The data pipeline follows a **multi-layered architecture**:
 
 📷 **Screenshot:**
 
-![image](https://github.com/user-attachments/assets/9893085a-9c08-4057-b7c2-01226ebd1c8b)
+![image](https://github.com/user-attachments/assets/7ee0b637-7c15-471c-a2a9-6d7109bf82cd)
 
 
 ### 2️⃣ Data Processing & Validation (Silver Layer)
@@ -36,7 +36,7 @@ The data pipeline follows a **multi-layered architecture**:
 
 📷 **Screenshot:**
 
-![image](https://github.com/user-attachments/assets/21745ab3-b6f8-4191-a5c8-73a7e5e82dce)
+![image](https://github.com/user-attachments/assets/e4166157-dcd2-4712-9f71-6c8cc13fac7a)
 
 
 ### 3️⃣ Transformation & Scheduling
@@ -45,7 +45,7 @@ The data pipeline follows a **multi-layered architecture**:
 
 📷 **Screenshot:**
 
-![image](https://github.com/user-attachments/assets/1be02fde-c459-4d88-b205-64b901304aab)
+![image](https://github.com/user-attachments/assets/7aa1a36a-56bb-4d59-bfa3-ebbb1d806b0f)
 
 
 ### 4️⃣ Delta Live Tables (Gold Layer)
